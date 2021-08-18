@@ -7,7 +7,7 @@
 - don't forget to save! `cmd + s`
 - after work is done don't forget to `git add .`
 - time to commit: ` git commit -m"<comment here>` 
-- time to push: `git push`
+- time to push: `git push --set-upstream origin <name of your branch>`
  
 *you can always check your status with `git status`*
 
